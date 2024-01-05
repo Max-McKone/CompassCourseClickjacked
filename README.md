@@ -1,3 +1,3 @@
 # CompassCourseClickjacked
 
-Die Seite soll so umgebaut werden damit wir einen clickjacking attacke simulieren können!
+Die Seite soll so umgebaut werden damit wir eine clickjacking Attacke simulieren können!
